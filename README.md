@@ -1,4 +1,4 @@
-[Orginal Repo](https://github.com/spring-petclinic/spring-petclinic-microservices)
+[Orginal Repository](https://github.com/spring-petclinic/spring-petclinic-microservices)
 
 # Distributed version of the Spring PetClinic Sample Application built with Spring Cloud 
 
